@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Yash Bhosale
 
-🎓 I'm a third-year Information Technology student  
-💻 I enjoy coding and building simple, clean websites  
+🎓 I'm a final-year Information Technology student  
+💻 I enjoy coding and building simple, clean AI/ML projects  
 🌐 Skills:  
+-numpy
+-SQL
+-pandas
 - Python 🐍  
 - HTML 🌐  
 - CSS 🎨  
