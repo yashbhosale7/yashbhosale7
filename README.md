@@ -3,7 +3,7 @@
 🎓 I'm a final-year Information Technology student  
 💻 I enjoy coding and building simple, clean AI/ML projects  
 🌐 Skills:  
--EDA(Exploratory Data Analysis)
+-Exploratory Data Analysis
 -Flask
 -scikit learn
 -matplotlib
